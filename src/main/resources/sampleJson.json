@@ -1,0 +1,16 @@
+{
+  "name" : "John",
+  "age" : 30,
+  "details" : {
+    "email" : "john.doe@example.com",
+    "address" : {
+      "street" : [ {
+        "Lucknow" : [ {
+          "balle" : {
+            "suiii" : "123 Main St"
+          }
+        } ]
+      } ]
+    }
+  }
+}
